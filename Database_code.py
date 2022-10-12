@@ -1,5 +1,11 @@
 import mysql.connector
 
+print("The Program To create and use Database")
+print("For Creation Of Database           [1]:--")
+
+print("For Use And Showing Of Databases   [2]:--")
+
+print("           TO Exit                 [3]:--")
 inp1= int(input("Enter Number To Choose The Option:- "))
 
 for j in a:
