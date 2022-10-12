@@ -59,3 +59,4 @@ for j in a:
       for x in cur:  
 
             print(x)
+      b.close()
